@@ -1,2 +1,2 @@
-# trabajosenpareja
-trabajos realizados en pareja con mi compañera de desafio latam fullstack javascript G72
+# Trabajos en pareja
+trabajos realizados en pareja para desafio latam fullstack javascript G72.
